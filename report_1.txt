@@ -1,0 +1,16 @@
+ID:
+Title:
+
+Severity:
+Priority:
+
+Steps:
+
+A.R:
+E.R:
+
+Environment:
+
+Attachment:
+
+Asigned to:
